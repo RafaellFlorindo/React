@@ -1,0 +1,21 @@
+.title{
+  color: black; 
+ }
+ 
+ .subtitle{
+   color: black;
+   position: relative;
+   bottom: 8vh;
+   
+ }
+ 
+ header{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   height: 15vh;
+   
+ }
+
+
